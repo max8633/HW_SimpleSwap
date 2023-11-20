@@ -16,7 +16,7 @@ Clone this repository, install Node.js dependencies, and build the source code:
 
 ```bash
 git clone https://github.com/max8633/HW_SimpleSwap.git
-cd SimpleSwap
+cd HW_SimpleSwap
 npm install
 npm run test:hardhat
 npm run test:foundry
