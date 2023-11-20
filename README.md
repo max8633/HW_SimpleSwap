@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SimpleSwap
 Implement a **Simple AMM Swap** contract with a **0% fee** ratio in `contracts/SimpleSwap.sol`. Ensure that you **override all the external functions defined in `ISimpleSwap.sol`**, and that the implementation passes all the tests.
 
@@ -21,3 +22,6 @@ npm run test:hardhat
 npm run test:foundry
 ```
 
+=======
+# HW_SimpleSwap
+>>>>>>> bdbf8da5ca15de23f5198070381cae6c26b325b7
